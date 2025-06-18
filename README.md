@@ -7,6 +7,10 @@ Repositório com meu aprendizado em Docker: comandos, práticas, certificação 
 ![Status](https://img.shields.io/badge/Progresso-Em%20andamento-yellow?style=flat-square)
 ![License](https://img.shields.io/badge/Livre%20para%20estudos-yes-brightgreen)
 
+<p align="center">
+  <img src="docker-banner.png" alt="Docker Banner" width="40%" />
+</p>
+
 ---
 
 ## 📚 Sobre este projeto
